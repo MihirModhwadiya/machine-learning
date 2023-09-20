@@ -1,7 +1,7 @@
-,name,age,city
-0,Mihir,21,Las Vegas
-1,Chintan,23,New York
-2,Shubham,9,San Francisco
-3,Soneir,22,Los Angeles
-4,Hasan,25,Chicago
-5,Mumtahin,24,California
+	name	age	city
+0	Mihir	21	Las Vegas
+1	Chintan	23	New York
+2	Shubham	19	San Francisco
+3	Soneir	22	Los Angeles
+4	Hasan	25	Chicago
+5	Mumtahin	24	California
