@@ -1,0 +1,11 @@
+{
+    "overrides": [
+      {
+        "files": "*.ipynb",
+        "options": {
+          "parser": "htmx"
+        }
+      }
+    ]
+  }
+  
